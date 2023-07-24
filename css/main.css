@@ -3,7 +3,7 @@
     :root{
         font-size: 16px;
 
-        --clr-bcg:#222;
+        --clr-bcg:red;
         --clr-font:#111;
         --clr-cont:#f5f5f5;
         --clr-acc:#4b057099;
